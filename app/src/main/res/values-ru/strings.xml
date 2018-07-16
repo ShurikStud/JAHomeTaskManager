@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашний менеджер задач</string>
+    <string name="prompt_email">e-mail</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Ошибка в e-mail</string>
+    <string name="error_invalid_password">Неверный пароль</string>
+    <string name="error_incorrect_password">Неверный пароль</string>
+    <string name="error_field_required">Обязательное поле</string>
+    <string name="title_activity_main">Менеджер задач</string>
+    <string name="action_settings">Настройки</string>
+    <string name="activity_login_swich_autologin">Авторегистрация</string>
+
+</resources>
